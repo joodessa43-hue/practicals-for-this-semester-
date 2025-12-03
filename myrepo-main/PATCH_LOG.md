@@ -1,0 +1,5 @@
+"# Patch Tracking Log" 
+"" 
+"| Date | Upstream SHA | Description | VendorA SHA | VendorA Branch | VendorB SHA | VendorB Branch | VendorB Revert SHA | Notes |" 
+"|------|---------------|--------------|--------------|----------------|--------------|----------------|--------------------|--------|" 
+"| $(date +%F) | $UPSTREAM_SHA | Example patch | $VENDORA_SHA | patch-abc1234 | $VENDORB_SHA | patch-abc1234 | $VENDORB_REVERT_SHA | Applied to both vendors; reverted on vendorB |" 
